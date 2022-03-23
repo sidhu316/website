@@ -1,14 +1,18 @@
 .fot{
+  padding: 5px;
+  color: rgba(255, 255, 255, 0.808);
+  text-align: center;}
+
+footer {
   position: fixed;
+  text-align: center;
+  background-color: #111;
   left: 10px;
   bottom: 5px;
   right: 10px;
   width: auto;
-  background-color: black;
-  color: white;
-  text-align: center;
-
 }
+
 .h{
   color: black;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -20,7 +24,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: black;
 }
 
 li {
