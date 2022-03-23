@@ -1,6 +1,6 @@
 .fot{
   padding: 5px;
-  color: rgba(255, 255, 255, 0.808);
+  color: white;
   text-align: center;}
 
 footer {
@@ -11,12 +11,6 @@ footer {
   bottom: 5px;
   right: 10px;
   width: auto;
-}
-
-.h{
-  color: black;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  text-align: center;
 }
 
 ul {
@@ -39,6 +33,16 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
-  background-color: #111;
+.bg {
+  background-color: orange;
+  background-position: center;
+  height: 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  padding: 3px;
+  text-align: center;
+  color: black;
 }
