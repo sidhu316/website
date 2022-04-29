@@ -37,6 +37,7 @@ li a {
   background-color: orange;
   background-position: center;
   height: 100px;
+  width: auto;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -45,4 +46,8 @@ h1 {
   padding: 3px;
   text-align: center;
   color: black;
+}
+ 
+body{
+  background-color: aqua;
 }
